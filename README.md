@@ -16,6 +16,6 @@ Technologies Used 🛠️
 - **Unsplash API:** Access a vast array of high-quality visuals—because our project deserves the awesomeness of Unsplash!
 
 Let's Connect! 🌐
-Explore the ethereal wonders at [YourProjectURL.com]. Connect with us on [[My LinkedIn Profile](https://www.linkedin.com/in/nayakramulu/)] and for the latest updates.
+Explore the ethereal wonders at [[Project link](https://nayakramulu50.github.io/Ethereal-Gallery/)]. Connect with us on [[My LinkedIn Profile](https://www.linkedin.com/in/nayakramulu/)] and for the latest updates.
 
 Enjoy the journey through Ethereal Gallery—where every image tells a unique story!
